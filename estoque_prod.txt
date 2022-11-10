@@ -1,0 +1,2 @@
+0|FIAT ARGO|3|valido = 0
+1|CRONOS|0|valido = 0
